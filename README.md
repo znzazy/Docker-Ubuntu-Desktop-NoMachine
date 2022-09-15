@@ -47,7 +47,7 @@ curl -sLkO https://is.gd/nomachineMATE ; bash nomachineMATE
 
  ```console  
  
-curl -sLkO https://is.gd/nomachinexfce4 ; bash nomachinexfce4
+curl -sLkO https://is.gd/07QsYH ; bash nomachinexfce4
 
  ```
 *FAQ: VM can't connect? Restart Cloud Shell then Re-run script.*
